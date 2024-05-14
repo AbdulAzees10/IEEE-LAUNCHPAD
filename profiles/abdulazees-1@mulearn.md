@@ -7,9 +7,8 @@
 ## My Certificate
 
 | Name                | Description                                                                  | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|
-| **freecodecamp Responsive web design**        |  Learn about HTML, CSS, little about JavaScript
-CSS Flexbox, CSS Grid|[ link](https://www.freecodecamp.org/certification/abdul_azees_m1/responsive-web-design)   |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| **freecodecamp Responsive web design** |  Learn about HTML, CSS, little about JavaScriptCSS Flexbox, CSS Grid|[ link](https://www.freecodecamp.org/certification/abdul_azees_m1/responsive-web-design)   |
 
 #### Career Plan:
 
